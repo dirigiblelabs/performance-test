@@ -1,5 +1,8 @@
 # Eclipse Dirigible - Performance Test Project
 
+[![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/performance-test.svg)](https://github.com/dirigiblelabs/performance-test/graphs/contributors)
+
 ## Overview
 
 The sample project is modeled through the `Enity Data Modeling (EDM)` editor and generated with the `Application - full stack (AngularJS)` template.
@@ -40,3 +43,8 @@ Access the sample application dashboard at: `/services/v4/web/university/`
 
 1. List all entites: `/services/v4/js/university/api/Entities/Students.js`
 1. List the first 200 entities: `/services/v4/js/university/api/Entities/Students.js?offset=0&limit=200`
+
+## License
+
+This project is copyrighted by [SAP SE](http://www.sap.com/) and is available under the [Eclipse Public License v 2.0](https://www.eclipse.org/legal/epl-v20.html). See [LICENSE](LICENSE) and [NOTICE.txt](NOTICE.txt) for further details.
+
