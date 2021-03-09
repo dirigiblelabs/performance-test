@@ -1,4 +1,4 @@
-# Eclipse Dirigible - Performance Test Project
+# EDM Project - Performance Test
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/performance-test.svg)](https://github.com/dirigiblelabs/performance-test/graphs/contributors)
