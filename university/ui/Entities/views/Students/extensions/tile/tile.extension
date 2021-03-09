@@ -1,0 +1,5 @@
+{
+	"description": "Entities tiles",
+	"extensionPoint": "launchpad-university-tiles",
+	"module": "university/ui/Entities/views/Students/extensions/tile/tile.js"
+}

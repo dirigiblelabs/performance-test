@@ -1,0 +1,5 @@
+{
+	"description": "Students view",
+	"extensionPoint": "launchpad-university-Entities-view",
+	"module": "university/ui/Entities/views/Students/extensions/view.js"
+}

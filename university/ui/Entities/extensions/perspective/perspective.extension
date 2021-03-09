@@ -1,0 +1,5 @@
+{
+	"description": "Entities perspective",
+	"extensionPoint": "launchpad-university-perspective",
+	"module": "university/ui/Entities/extensions/perspective/perspective.js"
+}

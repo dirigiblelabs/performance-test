@@ -1,0 +1,98 @@
+{
+    "schema": {
+        "structures": [
+            {
+                "name": "STUDENTS",
+                "type": "TABLE",
+                "columns": [
+                    {
+                        "type": "INTEGER",
+                        "length": 0,
+                        "primaryKey": true,
+                        "identity": true,
+                        "nullable": true,
+                        "name": "ID"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 20,
+                        "nullable": true,
+                        "name": "FIRSTNAME"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 20,
+                        "nullable": true,
+                        "name": "LASTNAME"
+                    },
+                    {
+                        "type": "INTEGER",
+                        "length": 20,
+                        "nullable": true,
+                        "name": "AGE"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO2"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO3"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO4"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO5"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO6"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO7"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO8"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO9"
+                    },
+                    {
+                        "type": "VARCHAR",
+                        "length": 1024,
+                        "nullable": true,
+                        "name": "BIO10"
+                    }
+                ]
+            }
+        ]
+    }
+}

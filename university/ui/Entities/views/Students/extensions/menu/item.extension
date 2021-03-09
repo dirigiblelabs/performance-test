@@ -1,0 +1,5 @@
+{
+	"description": "Students menu",
+	"extensionPoint": "shell-university-menu",
+	"module": "university/views/Students/menu/item.js"
+}

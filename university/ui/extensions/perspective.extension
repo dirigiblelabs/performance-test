@@ -1,0 +1,5 @@
+{
+	"description": "Home perspective",
+	"extensionPoint": "launchpad-university-perspective",
+	"module": "university/ui/extensions/perspective.js"
+}

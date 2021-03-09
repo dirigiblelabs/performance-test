@@ -1,0 +1,4 @@
+{
+	"description": "Extension Point for the university Menu Providers",
+	"name": "launchpad-university-menu"
+}
