@@ -10,20 +10,20 @@ The project has only one entity `Students` with few fields.
 
 #### Students:
 
-- `Id` - integer
-- `FirstName` - varchar(20)
-- `LastName` - varchar(20)
-- `Age` - integer
-- `Bio` - varchar(1024)
-- `Bio2` - varchar(1024)
-- `Bio3` - varchar(1024)
-- `Bio4` - varchar(1024)
-- `Bio5` - varchar(1024)
-- `Bio6` - varchar(1024)
-- `Bio7` - varchar(1024)
-- `Bio8` - varchar(1024)
-- `Bio9` - varchar(1024)
-- `Bio10` - varchar(1024)
+- **Id** - `integer`
+- **FirstName** - `varchar(20)`
+- **LastName** - `varchar(20)`
+- **Age** - `integer`
+- **Bio** - `varchar(1024)`
+- **Bio2** - `varchar(1024)`
+- **Bio3** - `varchar(1024)`
+- **Bio4** - `varchar(1024)`
+- **Bio5** - `varchar(1024)`
+- **Bio6** - `varchar(1024)`
+- **Bio7** - `varchar(1024)`
+- **Bio8** - `varchar(1024)`
+- **Bio9** - `varchar(1024)`
+- **Bio10** - `varchar(1024)`
 
 > The default generated data size, for `100` entites, is `803Kb`. For `1000` entities the data size is `8Mb`.
 
